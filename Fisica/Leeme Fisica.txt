@@ -1,0 +1,6 @@
+Directorio para los programas relacionados a asignaturas de Fisica basica y universitaria:
+	-Mecanica
+	-Electricidad y Magnetismo
+	-Termodinamica
+	-Mecanica de fluidos
+	-Solidos
