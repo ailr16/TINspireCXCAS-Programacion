@@ -1,5 +1,0 @@
-Bienvenido al repositorio de programas para las calculadoras TI Nspire CX y
-TI Nspire CX CAS.
-
-Aqui encontraras los programas realizados en las clases y otros que
-podran ser de tu utilidad en tus estudios, ya sea en lenguaje TI-BASIC o LUA.

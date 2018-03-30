@@ -1,2 +1,0 @@
-Directorio para programas de utilidad en asignaturas relacionadas a Calculo Vectorial.
-
