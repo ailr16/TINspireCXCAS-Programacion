@@ -1,0 +1,18 @@
+function on.paint(gc)
+    dibujaTabla(gc)
+    gc:drawString("x", 80, 12)
+    gc:drawString("f(x)=x^2", 200, 12)
+    a = 1
+    for x=-4, 4, 1 do
+        gc:drawString(x, 80, 12 + 16*a)
+        gc:drawString(x^2, 220, 12 + 16*a)
+        a = a + 1
+    end
+end
+
+function dibujaTabla(gc)
+     gc:drawLine(160, 16, 160, 176)
+    for a=1, 10,1 do
+        gc:drawRect(10,16*a,300,16)
+    end
+end
